@@ -10,11 +10,31 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Business Understanding: When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+
+**Two types of risks** are associated with the bankâ€™s decision: - If the applicant is **likely to repay** the loan, then **not approving the loan results in a loss of business** to the company - If the applicant is **not likely to repay** the loan, i.e. he/she is likely to default, then **approving the loan may lead to a financial loss** for the company.
+Business Requirements (Objective of this Case Study): The company wants to understand the **driving factors (or driver variables) behind loan default**, i.e. the variables which are strong indicators of default. The company can **utilise this knowledge for its portfolio and risk assessment**. If risky loan applicants can be identified early, then **such loans can be reduced thereby cutting down the amount of credit loss**. Therefore, the need is to Perform a Detailed Exploratory Data Analysis on the Lending Club Loans Data: - To identify patterns which indicate if a person is likely to default. - To understand how consumer attributes and loan attributes influence the tendency of default. - Recommend actions such as denying the loan, reducing the loan amount, lending at a higher interest rate, etc.
+
+** Approach followed for Exploratory Data Analysis:**
+ Below are the steps that would followed for performing this EDA:
+
+1. Importing necessary libraries & Loading Data for Analysis
+2. Data Understanding
+	2.1   Exploring the Data Dictionary
+	2.2   Exploring Data Structure, Data Shape and Size
+	2.3   Null Values & Unique Values Analysis
+3. Data Wrangling
+	3.1   Remove Unwanted Columns and Rows
+	3.2   Missing Values Treatment
+	3.3   Derived Metrics Columns
+	3.4   Data Segmentation
+	3.5   Outliers Treatment
+4. Data Analysis
+	4.1   Univariate Analysis
+	4.2   Bivariate Analysis
+	4.3   Multivariate Analysis
+5. Summarising Observations
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
