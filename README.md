@@ -1,7 +1,7 @@
 ﻿## Lending Club Case Study
 
 ## About the Company: 
-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to risky applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender **when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to risky applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'
 
 
 ## Table of Contents
@@ -33,19 +33,19 @@ When the company receives a loan application, the company has to make a decision
  Below are the steps that would followed for performing this EDA:
 
 1. Importing necessary libraries & Loading Data for Analysis
-2. Data Understanding
-	2.1   Exploring the Data Dictionary
-	2.2   Exploring Data Structure, Data Shape and Size
+2. Data Understanding\
+	2.1   Exploring the Data Dictionary\
+	2.2   Exploring Data Structure, Data Shape and Size\
 	2.3   Null Values & Unique Values Analysis
-3. Data Wrangling
-	3.1   Remove Unwanted Columns and Rows
-	3.2   Missing Values Treatment
-	3.3   Derived Metrics Columns
-	3.4   Data Segmentation
+3. Data Wrangling\
+	3.1   Remove Unwanted Columns and Rows\
+	3.2   Missing Values Treatment\
+	3.3   Derived Metrics Columns\
+	3.4   Data Segmentation\
 	3.5   Outliers Treatment
-4. Data Analysis
-	4.1   Univariate Analysis
-	4.2   Bivariate Analysis
+4. Data Analysis\
+	4.1   Univariate Analysis\
+	4.2   Bivariate Analysis\
 	4.3   Multivariate Analysis
 5. Summarising Observations
 
