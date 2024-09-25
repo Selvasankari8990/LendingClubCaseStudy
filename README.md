@@ -1,7 +1,7 @@
 ﻿## Lending Club Case Study
 
 ## About the Company: 
-	This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to risky applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender **when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'
+This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. Like most other lending companies, lending loans to risky applicants is the largest source of financial loss (called credit loss). **Credit loss** is the amount of money lost by the lender **when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'
 
 
 ## Table of Contents
@@ -20,7 +20,7 @@ When the company receives a loan application, the company has to make a decision
        - If the applicant is **not likely to repay** the loan, i.e. he/she is likely to default, then **approving the loan may lead to a financial loss** for the company
        .
 ## Business Requirements (Objective of this Case Study): 
-       The company wants to understand the **driving factors (or driver variables) behind loan default**, i.e. the variables which are strong indicators of default. 
+The company wants to understand the **driving factors (or driver variables) behind loan default**, i.e. the variables which are strong indicators of default. 
        The company can **utilise this knowledge for its portfolio and risk assessment**. If risky loan applicants can be identified early, then **such loans can be reduced thereby cutting down the amount of credit loss**. Therefore, the need is to Perform a Detailed Exploratory Data
        
 ## Analysis on the Lending Club Loans Data: 
@@ -100,12 +100,6 @@ Business Benefit / Impact:
     * NumPy
     * Seaborn
     * MatplotLib 
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial] (https://www.example.com).
 
 
 ## Contact Created by [@Selvasankari8990/LendingClubCaseStudy] - feel free to contact me!
