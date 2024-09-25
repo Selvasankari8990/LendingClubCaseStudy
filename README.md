@@ -48,9 +48,11 @@ Business Requirements (Objective of this Case Study): The company wants to under
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+    * Pandas
+    * NumPy
+    * Seaborn
+    * MatplotLib 
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -61,8 +63,7 @@ Give credit here.
 - This project was based on [this tutorial](https://www.example.com).
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contact Created by [@Selvasankari8990/LendingClubCaseStudy] - feel free to contact me!
 
 
 <!-- Optional -->
